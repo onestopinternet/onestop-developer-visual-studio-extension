@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text"></title>
+  <id>uuid:7d461a9c-df42-4fc3-bb84-b83c5147e145;id=1</id>
+  <updated>2013-07-24T22:19:45Z</updated>
+  <entry>
+    <id>7fb56bd5-289a-4106-83d2-a9a6e9b67989</id>
+    <title type="text">Onestop Developer</title>
+    <summary type="text">Tools, Add-Ins, and Configuration for the Onestop Software Engineer.</summary>
+    <published>2013-07-24T10:43:32-05:00</published>
+    <updated>2013-07-24T11:31:29-06:00</updated>
+    <author>
+      <name>Onestop Internet</name>
+    </author>
+    <content type="application/octet-stream" src="Onestop Developer.vsix" />
+    <Vsix xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/developer/vsx-syndication-schema/2010">
+      <Id>7fb56bd5-289a-4106-83d2-a9a6e9b67989</Id>
+      <Version>1.0</Version>
+      <References>Visual Studio MPF 11.0\Microsoft.VisualStudio.MPF.11.0\[11.0,);</References>
+      <Rating xsi:nil="true" />
+      <RatingCount xsi:nil="true" />
+      <DownloadCount xsi:nil="true" />
+    </Vsix>
+  </entry>
+</feed>
